@@ -1,0 +1,8 @@
+hello world 
+welcome to git
+git add (for single file)
+git add f1 f2(more than one)
+git add * or . (for multiple files)
+git commit -m "files created"
+git log
+
